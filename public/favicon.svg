@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="NANAIRO 七色">
+  <rect width="32" height="32" rx="8" fill="#0f172a"/>
+  <g>
+    <rect x="4" y="10" width="3.43" height="14" rx="1" fill="#e11d48"/>
+    <rect x="7.43" y="10" width="3.43" height="14" rx="1" fill="#ea580c"/>
+    <rect x="10.86" y="10" width="3.43" height="14" rx="1" fill="#ca8a04"/>
+    <rect x="14.29" y="10" width="3.43" height="14" rx="1" fill="#16a34a"/>
+    <rect x="17.71" y="10" width="3.43" height="14" rx="1" fill="#0891b2"/>
+    <rect x="21.14" y="10" width="3.43" height="14" rx="1" fill="#2563eb"/>
+    <rect x="24.57" y="10" width="3.43" height="14" rx="1" fill="#9333ea"/>
+  </g>
+</svg>
